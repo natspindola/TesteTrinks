@@ -11,6 +11,7 @@ namespace NumerosAleatórios
             valorInteiro.ToString();
 
             Console.WriteLine("Número sorteado: " + valorInteiro);
+
         }
     }
 }
